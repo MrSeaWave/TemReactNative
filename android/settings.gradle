@@ -1,0 +1,3 @@
+rootProject.name = 'TemReactNative'
+
+include ':app'
